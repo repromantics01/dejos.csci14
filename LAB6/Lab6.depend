@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685533999 source:c:\users\violeta\desktop\pau2\ip lab\lab6\main.cpp
+	<iostream>
+	"cylinderTank.h"
+
+1685534389 source:c:\users\violeta\desktop\pau2\ip lab\lab6\cylindertankimp.cpp
+	<iostream>
+	<cmath>
+	"cylinderTank.h"
+
+1685530586 c:\users\violeta\desktop\pau2\ip lab\lab6\cylindertank.h
+
